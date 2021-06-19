@@ -23,20 +23,22 @@ export const Products = () => {
     }
 
     if (brandFilter.length > 0) {
-      let innerTemp;
+      let innerTemp = [];
       brandFilter.forEach((filterItem) => {
         const temp = data.filter((item) => item.brand.includes(filterItem));
-        data = temp;
-        innerTemp = innerTemp + "," + temp;
+        innerTemp = innerTemp.concat(temp);
       });
-      // data = innerTemp;
+      data = innerTemp;
+      console.log(innerTemp);
     }
 
     if (idealForFilter.length > 0) {
+      let innerTemp = [];
       idealForFilter.forEach((filterItem) => {
         const temp = data.filter((item) => item.idealFor.includes(filterItem));
-        data = temp;
+        innerTemp = innerTemp.concat(temp);
       });
+      data = innerTemp;
     }
 
     setDisplayProductInfo(data);

@@ -53,6 +53,9 @@ export const Sidebar = () => {
     setSizeFilter([]);
     setBrandFilter([]);
     setIdealForFilter([]);
+    document.querySelectorAll(".checkbox").forEach((item) => {
+      item.checked = false;
+    });
   };
 
   return (
@@ -61,6 +64,7 @@ export const Sidebar = () => {
       <div className="size">
         <div>
           <input
+            className="checkbox"
             type="checkbox"
             value="S"
             id="small"
@@ -70,6 +74,7 @@ export const Sidebar = () => {
         </div>
         <div>
           <input
+            className="checkbox"
             type="checkbox"
             value="M"
             id="medium"
@@ -79,6 +84,7 @@ export const Sidebar = () => {
         </div>
         <div>
           <input
+            className="checkbox"
             type="checkbox"
             value="L"
             id="large"
@@ -88,6 +94,7 @@ export const Sidebar = () => {
         </div>
         <div>
           <input
+            className="checkbox"
             type="checkbox"
             value="XL"
             id="x-large"
@@ -100,6 +107,7 @@ export const Sidebar = () => {
       <div className="size">
         <div>
           <input
+            className="checkbox"
             type="checkbox"
             value="AARPI"
             id="aarpi"
@@ -109,6 +117,7 @@ export const Sidebar = () => {
         </div>
         <div>
           <input
+            className="checkbox"
             type="checkbox"
             value="PUMA"
             id="puma"
@@ -118,6 +127,7 @@ export const Sidebar = () => {
         </div>
         <div>
           <input
+            className="checkbox"
             type="checkbox"
             value="REEBOK"
             id="reebok"
@@ -127,6 +137,7 @@ export const Sidebar = () => {
         </div>
         <div>
           <input
+            className="checkbox"
             type="checkbox"
             value="PEPE JEANS"
             id="pepe-jeans"
@@ -136,6 +147,7 @@ export const Sidebar = () => {
         </div>
         <div>
           <input
+            className="checkbox"
             type="checkbox"
             value="DECHEN"
             id="dechen"
@@ -148,6 +160,7 @@ export const Sidebar = () => {
       <div className="size">
         <div>
           <input
+            className="checkbox"
             type="checkbox"
             value="Men"
             id="men"
@@ -157,6 +170,7 @@ export const Sidebar = () => {
         </div>
         <div>
           <input
+            className="checkbox"
             type="checkbox"
             value="Women"
             id="women"
