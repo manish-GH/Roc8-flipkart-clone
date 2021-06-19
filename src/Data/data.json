@@ -1,0 +1,82 @@
+[
+    {
+      "name": "Polyester Floral Print Shirt",
+      "brand": "AARPI",
+      "img": "https://rukminim1.flixcart.com/image/800/960/kjuby4w0/fabric/2/m/d/no-unstitched-prince-white-green-kz-brothers-original-imafzbkr3ssre69b.jpeg?q=50",
+      "price": 379,
+      "size": ["S","M","L"],
+      "idealFor": "Men"
+    },
+   {
+      "name": "Round Neck Blue T-Shirt",
+      "brand": "PUMA",
+      "img": "https://rukminim1.flixcart.com/image/800/960/km9ht3k0/t-shirt/w/4/j/m-58675906-puma-original-imagf7echxsdyvtj.jpeg?q=50",
+      "price": 870,
+      "size": ["S","L","XL"],
+      "idealFor": "Men"
+    },
+    {
+      "name": "Round Neck Pink T-Shirt",
+      "brand": "PUMA",
+      "img": "https://rukminim1.flixcart.com/image/800/960/kosxzm80/t-shirt/h/c/z/s-84789603-puma-original-imag36avgagzjjjz.jpeg?q=50",
+      "price": 637,
+      "size": ["S","M","L","XL"],
+      "idealFor": "Women"
+    },
+      {
+      "name": "Full Sleeve Sweatshirt",
+      "brand": "PUMA",
+      "img": "https://rukminim1.flixcart.com/image/800/960/kmmcrrk0/sweatshirt/z/g/t/s-58595402-puma-original-imagfh7qb4vxpyhw.jpeg?q=50",
+      "price": 1470,
+      "size": ["S","M","L","XL"],
+      "idealFor": "Women"
+    },
+     {
+      "name": "Solid Men Blue Track Pants",
+      "brand": "PUMA",
+      "img": "https://rukminim1.flixcart.com/image/800/960/k5lcvbk0/track-pant/b/f/f/m-58452806-puma-original-imafz8mzfwynztzs.jpeg?q=50",
+      "price": 1344,
+      "size": ["S","M","L","XL"],
+      "idealFor": "Men"
+    },
+     {
+      "name": "Round Neck Black T-Shirt",
+      "brand": "REEBOK",
+      "img": "https://rukminim1.flixcart.com/image/800/960/khkvukw0-0/t-shirt/a/q/d/m-gj0081-reebok-original-imafxk73mq4g8pqk.jpeg?q=50",
+      "price": 604,
+      "size": ["S","L"],
+      "idealFor": "Men"
+    },
+     {
+      "name": "Round Neck Grey T-Shirt",
+      "brand": "REEBOK",
+      "img": "https://rukminim1.flixcart.com/image/800/960/khkvukw0-0/t-shirt/y/u/9/m-gj2796-reebok-original-imafxk6nn8tzhhhh.jpeg?q=50",
+      "price": 688,
+      "size": ["S","M","XL"],
+      "idealFor": "Men"
+    },
+     {
+      "name": "Round Neck Grey T-Shirt",
+      "brand": "REEBOK",
+      "img": "https://rukminim1.flixcart.com/image/800/960/k4ss2a80/t-shirt/w/b/z/s-ec2056-reebok-original-imafnhvukgp3m3dh.jpeg?q=50",
+      "price": 750,
+      "size": ["M"],
+      "idealFor": "Women"
+    },
+     {
+      "name": "Regular Grey Jeans",
+      "brand": "PEPE JEANS",
+      "img": "https://rukminim1.flixcart.com/image/800/960/kox8b680/jean/s/t/s/32-pm206110q033-pepe-jeans-original-imag3a5hkcjzmedk.jpeg?q=50",
+      "price": 1739,
+      "size": ["M","L","XL"],
+      "idealFor": "Men"
+    },
+     {
+      "name": "Full Sleeve Denim Jacket",
+      "brand": "DECHEN",
+      "img": "https://rukminim1.flixcart.com/image/800/960/jxw5g280/jacket/6/2/g/xl-mntnw-4024-montrez-original-imafg82gbevyfwwz.jpeg?q=50",
+      "price": 2250,
+      "size": ["M","L","XL"],
+      "idealFor": "Women"
+    }
+]
